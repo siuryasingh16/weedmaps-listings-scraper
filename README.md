@@ -9,7 +9,7 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/skdcodes/freelancer-python-luminati-weedmaps.git
+git clone https://github.com/siuryasingh16/weedmaps-listings-scraper.git
 cd freelancer-python-luminati-weedmaps
 ```
 
