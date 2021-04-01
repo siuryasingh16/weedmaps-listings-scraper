@@ -15,8 +15,8 @@ coloredlogs.install(
 
 # define rotating proxies
 PROXIES = {
-    'http': 'http://lum-customer-hl_233xze5-zone-static:g32kc5833f20t@zproxy.lum-superproxy.io:22225',
-    'https': 'http://lum-customer-hl_233xze5-zone-static:g32kc5833f20t@zproxy.lum-superproxy.io:22225',
+    'http': 'http://lum-customer-hl_cc318370-zone-static:57x0nlt2yw3r@zproxy.lum-superproxy.io:22225',
+    'https': 'http://lum-customer-hl_cc318370-zone-static:57x0nlt2yw3r@zproxy.lum-superproxy.io:22225',
 }
 
 # define request headers
@@ -35,7 +35,7 @@ GATHER_TYPE = "region"
 # region to retrieve all coordinates of subregions and listings therein
 # can be any region: earth, california, 5-cities, alaska, germany
 # used only when GATHER_TYPE is set to "region"
-REGION = "california"
+REGION = "new york"
 
 # geopoint and fixed radius around which listings will be retrieved
 # used only when GATHER_TYPE is set to "pin"
